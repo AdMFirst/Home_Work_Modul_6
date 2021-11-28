@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1635049418 source:e:\telkom university\semester 3\struktur data\praktikum\home work mod 6\main.cpp
+	"DLL.h"
+
+1635048655 e:\telkom university\semester 3\struktur data\praktikum\home work mod 6\dll.h
+	<iostream>
+
+1635048583 source:e:\telkom university\semester 3\struktur data\praktikum\home work mod 6\dll.cpp
+	"DLL.h"
+
