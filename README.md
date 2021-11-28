@@ -32,4 +32,3 @@ Double Linked List dengan pointer LAST. Data yang disimpan adalah:
 
 • Perhatikan tutorial singkat terkait pembuatan menu sederhana pada link berikut ini :
 http://tiny.cc/TutorialMenu
-Kemudian buatlah main pogram yang menampilkan menu seperti tampilan berikut ini :
